@@ -18,6 +18,6 @@ A simple word guessing game built using Python.
 
 ## How to Run
 
-1. Run `hangman.py`
+1. Run `file.py`
 2. Guess one letter at a time
 3. Find the word before your lives run out
